@@ -1,4 +1,4 @@
-
+def magic(a):
+  print("-"*a)
 print("Magical Lines")
 a = input("Enter length")
-print("-"*a)
